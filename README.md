@@ -8,3 +8,6 @@ added guns & more!
 
 update 1.0.2
 soon.
+
+# advice
+DO NOT UPDATE OCULUS AS IT WILL BREAK AND BECOME UNSTABLE!
