@@ -7,7 +7,7 @@ update 1.0.1
 added guns & more!
 
 update 1.0.2
-soon.
+added more relistic shit I guess...
 
 # advice
 DO NOT UPDATE OCULUS AS IT WILL BREAK AND BECOME UNSTABLE!
